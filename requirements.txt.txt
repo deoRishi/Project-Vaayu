@@ -3,9 +3,13 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+xgboost
+catboost
 imbalanced-learn
+statsmodels
+pmdarima
 tensorflow
 keras
 torch
-tqdm
 jupyter
+tqdm
