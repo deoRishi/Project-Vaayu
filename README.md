@@ -47,3 +47,6 @@ This segment explores deep learning techniques for AQI prediction:
 
 ---
 
+## 🔄 Workflow Overview
+
+![Workflow Diagram](assets/Project Vaayu - visual selection.png)
