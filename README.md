@@ -1,4 +1,4 @@
-# 🌬️ Project Vaayu — Predictive Air Quality Intelligence
+#  Project Vaayu — Predictive Air Quality Intelligence
 
 **Project Vaayu** is a comprehensive, multi-phase initiative focused on accurate and scalable Air Quality Index (AQI) prediction and forecasting. Spanning classical machine learning, statistical time-series analysis, and deep learning architectures, the project aims to identify the most effective modeling approach for environmental health forecasting in Indian urban regions—specifically Hyderabad.
 
